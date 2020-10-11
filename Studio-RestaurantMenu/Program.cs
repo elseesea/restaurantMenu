@@ -4,7 +4,7 @@ namespace Studio_RestaurantMenu
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             Menu myMenu = new Menu();
             string itemName;
@@ -14,11 +14,19 @@ namespace Studio_RestaurantMenu
                 Console.Write("\nItem Name to add (Blank to quit): ");
                 itemName = Console.ReadLine();
                 if (!itemName.Trim().Equals("")) {
-                    Console.Write("Item price: ");
-                    string itemPrice = Console.ReadLine();
-                    Console.Write("Item description: ");
-                    string itemDesc = Console.ReadLine();
-                    myMenu.AddMenuItem(itemName, Double.Parse(itemPrice), itemDesc);
+                    MenuItem anItem = myMenu.HasItem(itemName);
+                    if (anItem != null)
+                    {
+                        Console.Write("Item price: ");
+                        string itemPrice = Console.ReadLine();
+                        Console.Write("Item description: ");
+                        string itemDesc = Console.ReadLine();
+                        myMenu.AddMenuItem(itemName, Double.Parse(itemPrice), itemDesc);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Item " + itemName + " already exists.");
+                    }
                 }
             } while (!itemName.Trim().Equals(""));
 

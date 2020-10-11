@@ -40,5 +40,16 @@ namespace Studio_RestaurantMenu
             get { return dateAdded; }
             set { dateAdded = value; }
         }
+
+        public override bool Equals(object obj)
+        {
+            return obj is MenuItem item &&
+                   name == item.name;
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(name);
+        }
     }
 }

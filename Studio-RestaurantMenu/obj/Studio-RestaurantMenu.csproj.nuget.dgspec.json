@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\jamielihyahoo\\development\\LaunchCode\\Studio-RestaurantMenu\\Studio-RestaurantMenu\\Studio-RestaurantMenu.csproj": {}
+    "C:\\Users\\jamielih\\Documents\\Software Development\\csharp-course\\restaurant-menu\\Studio-RestaurantMenu\\Studio-RestaurantMenu.csproj": {}
   },
   "projects": {
-    "D:\\Users\\jamielihyahoo\\development\\LaunchCode\\Studio-RestaurantMenu\\Studio-RestaurantMenu\\Studio-RestaurantMenu.csproj": {
+    "C:\\Users\\jamielih\\Documents\\Software Development\\csharp-course\\restaurant-menu\\Studio-RestaurantMenu\\Studio-RestaurantMenu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\jamielihyahoo\\development\\LaunchCode\\Studio-RestaurantMenu\\Studio-RestaurantMenu\\Studio-RestaurantMenu.csproj",
+        "projectUniqueName": "C:\\Users\\jamielih\\Documents\\Software Development\\csharp-course\\restaurant-menu\\Studio-RestaurantMenu\\Studio-RestaurantMenu.csproj",
         "projectName": "Studio-RestaurantMenu",
-        "projectPath": "D:\\Users\\jamielihyahoo\\development\\LaunchCode\\Studio-RestaurantMenu\\Studio-RestaurantMenu\\Studio-RestaurantMenu.csproj",
-        "packagesPath": "C:\\Users\\jamielihyahoo\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\jamielihyahoo\\development\\LaunchCode\\Studio-RestaurantMenu\\Studio-RestaurantMenu\\obj\\",
+        "projectPath": "C:\\Users\\jamielih\\Documents\\Software Development\\csharp-course\\restaurant-menu\\Studio-RestaurantMenu\\Studio-RestaurantMenu.csproj",
+        "packagesPath": "C:\\Users\\jamielih\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jamielih\\Documents\\Software Development\\csharp-course\\restaurant-menu\\Studio-RestaurantMenu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jamielihyahoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jamielih\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

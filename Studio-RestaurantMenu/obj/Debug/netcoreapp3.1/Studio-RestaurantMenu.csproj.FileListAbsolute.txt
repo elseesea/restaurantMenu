@@ -11,3 +11,16 @@ D:\Users\jamielihyahoo\development\LaunchCode\Studio-RestaurantMenu\Studio-Resta
 D:\Users\jamielihyahoo\development\LaunchCode\Studio-RestaurantMenu\Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Studio-RestaurantMenu.dll
 D:\Users\jamielihyahoo\development\LaunchCode\Studio-RestaurantMenu\Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Studio-RestaurantMenu.pdb
 D:\Users\jamielihyahoo\development\LaunchCode\Studio-RestaurantMenu\Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Studio-RestaurantMenu.genruntimeconfig.cache
+C:\Users\jamielih\Documents\Software Development\csharp-course\restaurant-menu\Studio-RestaurantMenu\bin\Debug\netcoreapp3.1\Studio-RestaurantMenu.exe
+C:\Users\jamielih\Documents\Software Development\csharp-course\restaurant-menu\Studio-RestaurantMenu\bin\Debug\netcoreapp3.1\Studio-RestaurantMenu.deps.json
+C:\Users\jamielih\Documents\Software Development\csharp-course\restaurant-menu\Studio-RestaurantMenu\bin\Debug\netcoreapp3.1\Studio-RestaurantMenu.runtimeconfig.json
+C:\Users\jamielih\Documents\Software Development\csharp-course\restaurant-menu\Studio-RestaurantMenu\bin\Debug\netcoreapp3.1\Studio-RestaurantMenu.runtimeconfig.dev.json
+C:\Users\jamielih\Documents\Software Development\csharp-course\restaurant-menu\Studio-RestaurantMenu\bin\Debug\netcoreapp3.1\Studio-RestaurantMenu.dll
+C:\Users\jamielih\Documents\Software Development\csharp-course\restaurant-menu\Studio-RestaurantMenu\bin\Debug\netcoreapp3.1\Studio-RestaurantMenu.pdb
+C:\Users\jamielih\Documents\Software Development\csharp-course\restaurant-menu\Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Studio-RestaurantMenu.csprojAssemblyReference.cache
+C:\Users\jamielih\Documents\Software Development\csharp-course\restaurant-menu\Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Studio-RestaurantMenu.AssemblyInfoInputs.cache
+C:\Users\jamielih\Documents\Software Development\csharp-course\restaurant-menu\Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Studio-RestaurantMenu.AssemblyInfo.cs
+C:\Users\jamielih\Documents\Software Development\csharp-course\restaurant-menu\Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Studio-RestaurantMenu.csproj.CoreCompileInputs.cache
+C:\Users\jamielih\Documents\Software Development\csharp-course\restaurant-menu\Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Studio-RestaurantMenu.dll
+C:\Users\jamielih\Documents\Software Development\csharp-course\restaurant-menu\Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Studio-RestaurantMenu.pdb
+C:\Users\jamielih\Documents\Software Development\csharp-course\restaurant-menu\Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Studio-RestaurantMenu.genruntimeconfig.cache
