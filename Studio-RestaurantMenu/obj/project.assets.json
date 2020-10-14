@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\jamielih\\.nuget\\packages\\": {}
+    "C:\\Users\\jamielihyahoo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jamielih\\Documents\\Software Development\\csharp-course\\restaurant-menu\\Studio-RestaurantMenu\\Studio-RestaurantMenu.csproj",
+      "projectUniqueName": "D:\\Users\\jamielihyahoo\\development\\LaunchCode\\Studio-RestaurantMenu\\Studio-RestaurantMenu\\Studio-RestaurantMenu.csproj",
       "projectName": "Studio-RestaurantMenu",
-      "projectPath": "C:\\Users\\jamielih\\Documents\\Software Development\\csharp-course\\restaurant-menu\\Studio-RestaurantMenu\\Studio-RestaurantMenu.csproj",
-      "packagesPath": "C:\\Users\\jamielih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jamielih\\Documents\\Software Development\\csharp-course\\restaurant-menu\\Studio-RestaurantMenu\\obj\\",
+      "projectPath": "D:\\Users\\jamielihyahoo\\development\\LaunchCode\\Studio-RestaurantMenu\\Studio-RestaurantMenu\\Studio-RestaurantMenu.csproj",
+      "packagesPath": "C:\\Users\\jamielihyahoo\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\jamielihyahoo\\development\\LaunchCode\\Studio-RestaurantMenu\\Studio-RestaurantMenu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jamielih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jamielihyahoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -18,8 +18,11 @@ namespace Studio_RestaurantMenu
         public void AddMenuItem(string name, double price, string description)
         {
             MenuItem aMenuItem = new MenuItem(name, price, description);
-            menuItems.Add(aMenuItem);
-            this.dateUpdated = DateTime.Today;
+            if (!HasItem(aMenuItem))
+            {
+                menuItems.Add(aMenuItem);
+                this.dateUpdated = DateTime.Today;
+            }
         }
 
         public void AddMenuItem(MenuItem menuItem)
@@ -104,7 +107,18 @@ namespace Studio_RestaurantMenu
                 }
             }
             return null;
+        }
 
+        public bool HasItem(MenuItem menuItem)
+        {
+            foreach (MenuItem anItem in menuItems)
+            {
+                if (menuItem.Equals(anItem))
+                {
+                    return true;
+                }
+            }
+            return false;
         }
     }
 }
